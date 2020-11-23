@@ -1,0 +1,15 @@
+[
+  "src/test_solution.py::test_first_three",
+  "src/test_solution.py::test_add_implementation",
+  "src/test_solution.py::test_add_empty_reponse_body",
+  "src/test_solution.py::test_get_members_exist",
+  "src/test_solution.py::test_get_members_returns_list",
+  "src/test_solution.py::test_get_members_returns_list_of_five",
+  "src/test_solution.py::test_get_single_member_implemented",
+  "src/test_solution.py::test_get_single_member_returns_dict",
+  "src/test_solution.py::test_get_single_member_has_keys",
+  "src/test_solution.py::test_get_first_member_tommy",
+  "src/test_solution.py::test_delete_member",
+  "src/test_solution.py::test_delete_response",
+  "src/test_solution.py::test_get_members_returns_list_of_four"
+]
